@@ -1,0 +1,12 @@
+[Thu Jun 10 07:55:54.670338 2021] [ssl:warn] [pid 1] AH01909: 172.20.0.5:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 10 07:55:54.705125 2021] [ssl:warn] [pid 1] AH01909: 172.20.0.5:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 10 07:55:54.708974 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Jun 10 07:55:54.709957 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Jun 10 08:01:10.455592 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Jun 14 01:18:10.778212 2021] [ssl:warn] [pid 1] AH01909: 172.20.0.5:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 14 01:18:10.843553 2021] [ssl:warn] [pid 1] AH01909: 172.20.0.5:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 14 01:18:10.847862 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) OpenSSL/1.1.1d configured -- resuming normal operations
+[Mon Jun 14 01:18:10.848477 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jun 14 02:41:42.050545 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
